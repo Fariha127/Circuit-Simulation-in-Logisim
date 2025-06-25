@@ -17,14 +17,15 @@ As a CSE undergrad exploring **digital electronics** and **computer architecture
 * Combinational circuits:
 
   * Half Adder / Full Adder
-  * Multiplexers / Demultiplexers
-  * Encoders / Decoders    
+  * Multiplexers / Demultiplexers  
 * Sequential circuits:
 
   * Flip-flops (SR, D, JK)
   * Registers
   * Counters
 * Arithmetic circuits
+* 7 Segment Display
+* Gray code
 
 > 📁 `.circ` files are included and can be opened directly in Logisim.
 
